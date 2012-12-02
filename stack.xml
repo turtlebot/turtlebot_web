@@ -1,0 +1,8 @@
+<stack>
+  <description brief="turtlebot_web">Provides support for web-related development on the turtlebot. </description>
+  <author>Maintained by Jihoon Lee</author>
+  <license>BSD</license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/turtlebot_web</url>
+  <depend stack="rosbridge_suite" /> <!-- rosbridge_launch -->
+</stack>

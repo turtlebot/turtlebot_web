@@ -1,0 +1,15 @@
+<package>
+  <description brief="turtlebot_web_bringup">
+
+     Launchers for turtlebot web related activities.
+
+  </description>
+  <author>Jihoon Lee</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/turtlebot_web_bringup</url>
+
+  <depend package="rosbridge_launch"/>
+</package>
+
+
